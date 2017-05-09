@@ -1,0 +1,26 @@
+[
+  {
+    "name" : "Rashmi",
+    "email" : "rash@gmail.com",
+    "password" : "password",
+    "mobile" : 999999
+  },
+  {
+    "name" : "anand ujjwal",
+    "email" : "anandujjwal13@gmail.com",
+    "password" : "password",
+    "mobile" : 9524440474.0
+  },
+  {
+    "name" : "kk",
+    "email" : "kkm",
+    "password" : "pass",
+    "mobile" : 567
+  },
+  {
+    "name" : "aman",
+    "email" : "aman",
+    "password" : "aman",
+    "mobile" : 99999999889.0
+  }
+]

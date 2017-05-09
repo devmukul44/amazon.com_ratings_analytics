@@ -1,0 +1,19 @@
+# Created by .ignore support plugin (hsz.mobi)
+*.class
+*.log
+
+# SBT Ignore Rules
+.cache
+.history
+.lib/
+cart-analytics-core-model/dist/*
+cart-analytics-core-model/target/
+cart-analytics-core-model/lib_managed/
+cart-analytics-core-model/src_managed/
+cart-analytics-core-model/project/boot/
+cart-analytics-core-model/project/plugins/project/
+static/category/
+
+# IntelliJ IDE Specific Ignore Rules
+.idea/
+cart-analytics-core-model/project/target/
