@@ -9,10 +9,10 @@ http://jmcauley.ucsd.edu/data/amazon/
   * use command _Python app.py_ in the terminal
   * Output can be seen at following endpoints
   * <pre> http://127.0.0.1:5000/books/
-  http://127.0.0.1:5000/electronics/
-  http://127.0.0.1:5000/cell/
-  http://127.0.0.1:5000/clothing/
-  http://127.0.0.1:5000/office/
+     http://127.0.0.1:5000/electronics/
+     http://127.0.0.1:5000/cell/
+     http://127.0.0.1:5000/clothing/
+     http://127.0.0.1:5000/office/
   </pre>
 ## Screenshots
 ![cart1](https://cloud.githubusercontent.com/assets/15700993/26024056/0106d7f0-37e7-11e7-9f76-c2a3b948955c.png)
