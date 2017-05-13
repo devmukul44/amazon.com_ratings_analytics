@@ -1,5 +1,5 @@
-# Cart-Analytics-Core
-* Big Data Analytics for smart shoipping cart using __Spark Framework__ and __Scala Programming Language__
+# Ratings analysis of Amazon.com products
+* Big Data Analytics for amazon.com products categorized in the _books, electronics, cell phones and accessories, clothings and jewellery and office products respectively_ using __Spark Framework__ and __Scala Programming Language__.  
 * Categorical Ratings Data is achieved from:
 <pre>
 http://jmcauley.ucsd.edu/data/amazon/
